@@ -8,6 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main: 
-    
-  - title: "Portfolio"
-    url: /portfolio/
+# I plan on expanding the portfolio page in the future so I'm leaving the guts of it in - Connor
+  #- title: "Portfolio"
+  #  url: /portfolio/
