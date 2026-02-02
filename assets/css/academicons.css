@@ -416,10 +416,10 @@
 .ai-scopus-square:before {
   content: "\e91f";
 }
-.ai-semantic-scholar:before {
+.ai-resume-scholar:before {
   content: "\e96e";
 }
-.ai-semantic-scholar-square:before {
+.ai-resume-scholar-square:before {
   content: "\e96c";
 }
 .ai-springer:before {
