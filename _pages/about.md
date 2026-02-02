@@ -6,13 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the first part of the page
-
-PART 2
+Project History
 ======
-This is the second part of the page
-
-PART 3
-======
-This is the third part of the page
+This is where I'll be posting about any future ventures/projects
